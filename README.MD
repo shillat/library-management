@@ -5,13 +5,13 @@ A minimalist, high-concurrency Java Library Server leveraging the native `com.su
 ## Table of Contents
 
 * [System Architecture](#system-architecture)
-* [Technical Stack](https://www.google.com/search?q=%23technical-stack)
-* [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-* [Installation & Execution](https://www.google.com/search?q=%23installation--execution)
-* [API Specification](https://www.google.com/search?q=%23api-specification)
-* [Contribution Workflow](https://www.google.com/search?q=%23contribution-workflow)
-* [Contact & Project Governance](https://www.google.com/search?q=%23contact--project-governance)
-* [License](https://www.google.com/search?q=%23license)
+* [Technical Stack](#technical-stack)
+* [Prerequisites](#prerequisites)
+* [Installation & Execution](#installation--execution)
+* [API Specification](#api-specification)
+* [Contribution Workflow](#contribution-workflow)
+* [Contact & Project Governance](#contact--project-governance)
+* [License](#license)
 
 ## System Architecture
 
