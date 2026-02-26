@@ -102,10 +102,3 @@ This project is maintained as part of a University-level Software Engineering cu
 This project is licensed under the **MIT License**.
 The MIT License is a permissive free software license that allows for reuse within proprietary software, provided that all copies of the software or its substantial portions include a copy of the terms of the MIT License and the copyright notice.
 
----
-
-### Evidence of Professional Standard
-
-According to the **GitHub Documentation Best Practices**, using lowercase identifiers and hyphens for anchors (e.g., `#system-architecture`) is the standard for GitHub Flavored Markdown (GFM). This ensures that your Table of Contents remains robust even as the project scales.
-
-**Would you like me to help you create a `CHANGELOG.md` file so you can document the specific versioning and improvements you have made to this project?**
