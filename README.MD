@@ -2,8 +2,6 @@
 
 A minimalist, high-concurrency **Java Library Server** leveraging the native `com.sun.net.httpserver` stack. This project serves as a technical demonstration of low-level HTTP request handling, RESTful routing, and state management within a single-threaded environment, designed specifically for educational and lightweight deployment contexts.
 
-
-
 ## ## Table of Contents
 
 1. [System Architecture](https://www.google.com/search?q=%23system-architecture)
@@ -13,8 +11,6 @@ A minimalist, high-concurrency **Java Library Server** leveraging the native `co
 5. [API Specification](https://www.google.com/search?q=%23api-specification)
 6. [Contribution Workflow](https://www.google.com/search?q=%23contribution-workflow)
 7. [Contact & Project Governance](https://www.google.com/search?q=%23contact--project-governance)
-
-
 
 ## ## System Architecture
 
@@ -26,8 +22,6 @@ The application implements a **Stateless Client-Server Model**. The backend acts
 * **Data Persistence**: Utilizes a synchronized In-Memory Collection to ensure thread safety when multiple users interact with the library catalog.
 * **Model-View-Controller (MVC) Pattern**: While lightweight, the server logic separates the `Book` data (Model), the browser interface (View), and the server-side logic (Controller).
 
-
-
 ## ## Technical Stack
 
 | Component | Technology | Role |
@@ -36,8 +30,6 @@ The application implements a **Stateless Client-Server Model**. The backend acts
 | **Server Stack** | `com.sun.net.httpserver` | HTTP Protocol Handling |
 | **Frontend** | HTML5 / CSS3 | User Interface & Forms |
 | **State Management** | Java Collections | In-memory Data Storage |
-
-
 
 ## ## Prerequisites
 
