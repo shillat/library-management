@@ -4,7 +4,7 @@ A minimalist, high-concurrency Java Library Server leveraging the native `com.su
 
 ## Table of Contents
 
-* [System Architecture](#system-architecture)*
+* [System Architecture](#system-architecture)
 * [Technical Stack](https://www.google.com/search?q=%23technical-stack)
 * [Prerequisites](https://www.google.com/search?q=%23prerequisites)
 * [Installation & Execution](https://www.google.com/search?q=%23installation--execution)
