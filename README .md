@@ -66,7 +66,7 @@ java LibraryServer
 
 ### 4. 🚀 Live Demo
 To demonstrate the server's capabilities and frontend interface without requiring local setup, I have hosted a live instance here:
-Live Demo: Library Management System
+Live Demo: [Library Management System](https://library-management-sandy-nine.vercel.app/)
 
 ## API Specification
 
